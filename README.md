@@ -2,7 +2,7 @@
 <H3>REGISTER NO:212221230072</H3>
 <H3>EX.NO:6</H3>
 <H3>DATE:24/04/2024</H3>
-<H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
+<H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 
 ## AIM:
 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
@@ -92,4 +92,4 @@ for sentence in sentences:
 ![output](op2.png)
 
 ## RESULT:
-Thus,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
+Thus, the program to perform the Parts of Speech identification and Synonyms executed successfully.
